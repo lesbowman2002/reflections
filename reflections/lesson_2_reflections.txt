@@ -1,0 +1,13 @@
+what happens when you initialize a repository? Why do you need to do it?
+
+It creates a hidden .git file to start building and saving your commits. You need the repository in order to store the changes made to an exisiting file/files.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+The working directory shows all the files that have not been committed to a repository and the repository build. Where as the staging area is files that are ready to be committed to the repository. 
+I think it's value lies on a holding place to determine whether or not you want to commit that file or files together.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Branches are helpful when you don't want to alter the master file but want to create a duplicate to make changes for experimental changes etc. Branches enable you to still keep a working
+version of the file while also creating another version with changes you have made to see if they work.

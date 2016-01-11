@@ -1,0 +1,2 @@
+It shows you only the lines of code between the old and new file that have changes on them so you can pinpoint the difference
+Version control systems help by allowing you to see the history of files incase there was a change made incorrectly or that you want to go back to. This could definitely help developers become more efficient with developing and writing programming.
